@@ -15,5 +15,7 @@
   "bugs": {
     "url": "https://github.com/romeroruben/full_stack_challenge/issues"
   },
-  "homepage": "https://github.com/romeroruben/full_stack_challenge#readme"
+  "homepage": "https://github.com/romeroruben/full_stack_challenge#readme",
+  "dependencies": {
+  }
 }
