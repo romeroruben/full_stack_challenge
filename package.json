@@ -17,7 +17,5 @@
   },
   "homepage": "https://github.com/romeroruben/full_stack_challenge#readme",
   "dependencies": {
-    "csvtojson": "^2.0.10",
-    "joi": "^17.9.2"
   }
 }
